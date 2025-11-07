@@ -1,0 +1,814 @@
+2025-11-06 09:35:47,130 - minecraft_stats - INFO - Started log monitoring thread
+2025-11-06 09:35:47,131 - minecraft_stats - INFO - Started monitoring minecraft logs: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:35:47,177 - minecraft_stats - ERROR - [SYSTEM] Низкое место на диске: 3.0GB свободно
+2025-11-06 09:35:47,177 - minecraft_stats - INFO - Started system status monitoring thread
+2025-11-06 09:35:47,186 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:35:47,186 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-06 09:35:49,397 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:35:49] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:35:49,417 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:35:49] "GET /api/logs HTTP/1.0" 200 -
+2025-11-06 09:36:18,573 - minecraft_stats - INFO - Started log monitoring thread
+2025-11-06 09:36:18,573 - minecraft_stats - INFO - Started monitoring minecraft logs: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:36:18,587 - minecraft_stats - INFO - Started system status monitoring thread
+2025-11-06 09:36:18,588 - minecraft_stats - ERROR - [SYSTEM] Низкое место на диске: 3.0GB свободно
+2025-11-06 09:36:18,594 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:36:18,594 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-06 09:36:23,512 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:36:23] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:36:23,516 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:36:23] "GET /api/logs HTTP/1.0" 200 -
+2025-11-06 09:36:45,497 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:36:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:36:47,391 - minecraft_stats - ERROR - [MINECRAFT] [09:36:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+2025-11-06 09:36:47,492 - minecraft_stats - INFO - [MINECRAFT] r<--[HERE]
+2025-11-06 09:37:15,510 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:37:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:37:45,514 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:37:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:38:15,503 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:38:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:38:45,700 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:38:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:39:15,700 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:39:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:39:45,748 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:39:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:40:15,748 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:40:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:40:46,477 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:40:46] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:41:16,464 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:41:16] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:41:18,596 - minecraft_stats - ERROR - [SYSTEM] Низкое место на диске: 3.0GB свободно
+2025-11-06 09:41:46,466 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:41:46] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:42:16,491 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:42:16] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:42:46,500 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:42:46] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:43:16,697 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:43:16] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:43:46,695 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:43:46] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:44:46,983 - minecraft_stats - INFO - Started log simulation thread
+2025-11-06 09:44:46,984 - minecraft_stats - INFO - Started monitoring Minecraft logs: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:44:46,984 - minecraft_stats - INFO - Started Minecraft log monitoring thread
+2025-11-06 09:44:46,985 - minecraft_stats - INFO - Started system monitoring thread
+2025-11-06 09:44:46,987 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:44:46,987 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-06 09:44:47,489 - minecraft_stats - INFO - Server status check completed in 0.01s
+2025-11-06 09:44:47,496 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:44:47] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:44:50,936 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:44:50] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:44:50,939 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:44:50] "GET /api/logs HTTP/1.0" 200 -
+2025-11-06 09:45:17,489 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:45:17,490 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:17] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:45:20,137 - minecraft_stats - ERROR - [MINECRAFT] [09:45:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+2025-11-06 09:45:20,138 - minecraft_stats - INFO - [MINECRAFT] АА<--[HERE]
+2025-11-06 09:45:25,797 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:25] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:45:25,888 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:25] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:45:25,894 - minecraft_stats - INFO - Server status check completed in 0.01s
+2025-11-06 09:45:25,895 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:25] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:45:38,875 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:38] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:45:38,939 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:38] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:45:38,946 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:45:38,947 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:45:38] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:46:08,962 - minecraft_stats - INFO - Server status check completed in 0.01s
+2025-11-06 09:46:08,964 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:08] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:46:11,957 - minecraft_stats - INFO - Started log simulation thread
+2025-11-06 09:46:11,958 - minecraft_stats - INFO - Started Minecraft log monitoring thread
+2025-11-06 09:46:11,958 - minecraft_stats - INFO - Started system monitoring thread
+2025-11-06 09:46:11,958 - minecraft_stats - INFO - Started monitoring Minecraft logs: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:46:11,963 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:46:11,963 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-06 09:46:12,460 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:12] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:46:15,296 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:15] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:46:15,349 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:15] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:46:15,372 - minecraft_stats - INFO - Server status check completed in 0.02s
+2025-11-06 09:46:15,372 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:46:45,776 - minecraft_stats - INFO - Server status check completed in 0.01s
+2025-11-06 09:46:45,776 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:46:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:47:15,771 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:47:15,772 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:47:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:47:45,773 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:47:45,773 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:47:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:48:05,284 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:48:05] "GET /api/logs HTTP/1.0" 200 -
+2025-11-06 09:48:15,771 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:48:15,771 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:48:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:48:45,772 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:48:45,773 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:48:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:49:15,775 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:49:15,775 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:49:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:49:45,776 - minecraft_stats - INFO - Server status check completed in 0.01s
+2025-11-06 09:49:45,776 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:49:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:50:15,771 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:50:15,773 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:50:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:50:45,778 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:50:45,779 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:50:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:51:15,775 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:51:15,776 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:51:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:51:45,783 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:51:45,784 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:51:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:52:15,780 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:52:15,781 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:52:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:52:45,778 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:52:45,779 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:52:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:53:15,777 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:53:15,778 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:53:45,778 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:53:45,779 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:53:49,392 - minecraft_stats - INFO - 🚀 API сервер запускается...
+2025-11-06 09:53:49,394 - minecraft_stats - INFO - Started monitoring Minecraft logs: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:53:49,394 - minecraft_stats - INFO - Started Minecraft log monitoring thread
+2025-11-06 09:53:49,395 - minecraft_stats - INFO - Started system monitoring thread
+2025-11-06 09:53:49,395 - minecraft_stats - INFO - Started system monitoring thread
+2025-11-06 09:53:49,396 - minecraft_stats - INFO - Started database monitoring thread
+2025-11-06 09:53:49,396 - minecraft_stats - INFO - Started database monitoring thread
+2025-11-06 09:53:49,396 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:53:49,411 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:53:49,413 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:53:49,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-06 09:53:51,208 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:53:51,208 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:53:51,209 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:51] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:53:57,378 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:53:57,379 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:53:57,381 - minecraft_stats - INFO - Response: 200 for /api/health in 0.003s
+2025-11-06 09:53:57,381 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:57] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:53:57,438 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:53:57,439 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:53:57,439 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:57] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:53:57,445 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:53:57,449 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:53:57,449 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:53:57,449 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.004s
+2025-11-06 09:53:57,450 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:53:57] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:53:59,413 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:53:59,423 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:09,423 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:09,426 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:11,004 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:54:11,005 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:11,006 - minecraft_stats - INFO - Response: 200 for /api/health in 0.002s
+2025-11-06 09:54:11,007 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:11] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:54:11,090 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:11,090 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:54:11,091 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:11] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:11,094 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:11,100 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:11,100 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:11,101 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.007s
+2025-11-06 09:54:11,105 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:11] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:17,670 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:54:17,671 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:17,674 - minecraft_stats - INFO - Response: 200 for /api/health in 0.005s
+2025-11-06 09:54:17,679 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:17] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:54:17,789 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:17,791 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.002s
+2025-11-06 09:54:17,791 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:17] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:17,794 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:17,798 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:17,799 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:17,799 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.005s
+2025-11-06 09:54:17,800 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:17] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:19,311 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:54:19,311 - minecraft_stats - INFO - Response: 200 for /api/health in 0.001s
+2025-11-06 09:54:19,312 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:19,312 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:19] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:54:19,362 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:19,363 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:54:19,363 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:19] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:19,369 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:19,372 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:19,372 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:19,373 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.004s
+2025-11-06 09:54:19,373 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:19] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:19,428 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:19,430 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:20,758 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:54:20,758 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:20,760 - minecraft_stats - INFO - Response: 200 for /api/health in 0.002s
+2025-11-06 09:54:20,760 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:20] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:54:20,834 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:20,834 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:54:20,835 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:20] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:20,838 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:20,841 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:20,842 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:20,842 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.004s
+2025-11-06 09:54:20,843 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:20] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:22,112 - minecraft_stats - INFO - Request: GET /api/health from 127.0.0.1
+2025-11-06 09:54:22,112 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:22,113 - minecraft_stats - INFO - Response: 200 for /api/health in 0.001s
+2025-11-06 09:54:22,116 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:22] "GET /api/health HTTP/1.0" 200 -
+2025-11-06 09:54:22,196 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:22,196 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:54:22,197 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:22] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:22,203 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:22,205 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:22,206 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:22,206 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.003s
+2025-11-06 09:54:22,207 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:22] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:29,433 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:29,442 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:34,795 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:34,796 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:54:34,796 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:34] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:34,797 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:39,442 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:39,445 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:49,445 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:49,454 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:54:52,225 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:54:52,226 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:54:52,230 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:54:52,231 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:54:52,233 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:54:52,233 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.002s
+2025-11-06 09:54:52,233 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.008s
+2025-11-06 09:54:52,234 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:52] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:54:52,234 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:54:52] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:54:59,454 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:54:59,457 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:09,459 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:09,466 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:19,467 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:19,472 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:22,229 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:55:22,233 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:55:22,233 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:55:22,234 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.005s
+2025-11-06 09:55:22,234 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:55:22] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:55:23,226 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:55:23,227 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:55:23,227 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:55:23,227 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:55:23] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:55:29,472 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:29,476 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:39,476 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:39,482 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:49,483 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:49,488 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:55:52,225 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:55:52,227 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:55:52,227 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:55:52,228 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.003s
+2025-11-06 09:55:52,229 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:55:52] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:55:53,277 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:55:53,278 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:55:53,278 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:55:53] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:55:53,277 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:55:59,489 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:55:59,492 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:09,492 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:09,497 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:19,499 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:19,509 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:24,285 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:56:24,285 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:56:24,289 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:56:24,289 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:56:24,289 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.005s
+2025-11-06 09:56:24,290 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:56:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:56:24,293 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:56:24,296 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.003s
+2025-11-06 09:56:24,299 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:56:24] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:56:29,510 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:29,515 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:39,517 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:39,524 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:49,524 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:49,527 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:56:54,291 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:56:54,292 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:56:54,294 - minecraft_stats - INFO - Server status check completed in 0.00s
+2025-11-06 09:56:54,294 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:56:54,295 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.004s
+2025-11-06 09:56:54,295 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:56:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:56:54,297 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:56:54,297 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:56:54,298 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:56:54] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:56:59,530 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:56:59,537 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:57:09,543 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:57:09,553 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:57:19,557 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:57:19,563 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:57:24,353 - minecraft_stats - ERROR - Request exception: 
+2025-11-06 09:57:24,356 - minecraft_stats - INFO - Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:57:24,375 - minecraft_stats - INFO - Server status check completed in 0.02s
+2025-11-06 09:57:24,378 - minecraft_stats - WARNING - Stats directory not found: /путь/к/minecraft/world/stats
+2025-11-06 09:57:24,379 - minecraft_stats - INFO - Response: 200 for /api/stats in 0.023s
+2025-11-06 09:57:24,379 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:57:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:57:24,380 - minecraft_stats - INFO - Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:57:24,382 - minecraft_stats - INFO - Response: 200 for /api/logs/stream in 0.002s
+2025-11-06 09:57:24,382 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2025 09:57:24] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:57:29,564 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:57:29,569 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:57:39,571 - minecraft_stats - ERROR - Error in database monitoring: name 'random' is not defined
+2025-11-06 09:57:39,576 - minecraft_stats - ERROR - Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 508, in database_monitor
+    operation = random.choice(operations)
+                ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+
+2025-11-06 09:57:50,147 [INFO] Minecraft log monitoring thread started
+2025-11-06 09:57:50,147 [INFO] Starting Minecraft log monitoring: /home/donatkauler/McServer/logs/latest.log
+2025-11-06 09:57:50,150 [INFO] System log generation thread started
+2025-11-06 09:57:50,152 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-11-06 09:57:50,152 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 09:57:51,068 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:57:51,068 [INFO] Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:57:51,069 [INFO] 127.0.0.1 - - [06/Nov/2025 09:57:51] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:57:54,339 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:57:54,342 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 09:57:54,343 [INFO] 127.0.0.1 - - [06/Nov/2025 09:57:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:57:54,350 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:57:54,350 [INFO] Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:57:54,351 [INFO] 127.0.0.1 - - [06/Nov/2025 09:57:54] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:57:59,040 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:57:59,041 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:57:59,041 [INFO] 127.0.0.1 - - [06/Nov/2025 09:57:59] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:58:24,433 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:58:24,434 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:58:24,435 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:58:24,435 [INFO] 127.0.0.1 - - [06/Nov/2025 09:58:24] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:58:24,437 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 09:58:24,437 [INFO] 127.0.0.1 - - [06/Nov/2025 09:58:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:58:54,442 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:58:54,453 [INFO] Response: 200 for /api/stats in 0.012s
+2025-11-06 09:58:54,459 [INFO] 127.0.0.1 - - [06/Nov/2025 09:58:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:58:54,464 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:58:54,464 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:58:54,465 [INFO] 127.0.0.1 - - [06/Nov/2025 09:58:54] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:59:24,457 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:59:24,465 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 09:59:24,466 [INFO] 127.0.0.1 - - [06/Nov/2025 09:59:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:59:24,475 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:59:24,476 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 09:59:24,476 [INFO] 127.0.0.1 - - [06/Nov/2025 09:59:24] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 09:59:54,719 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 09:59:54,723 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 09:59:54,723 [INFO] 127.0.0.1 - - [06/Nov/2025 09:59:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 09:59:54,726 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 09:59:54,726 [INFO] Response: 200 for /api/logs/stream in 0.000s
+2025-11-06 09:59:54,726 [INFO] 127.0.0.1 - - [06/Nov/2025 09:59:54] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 10:00:24,723 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:00:24,726 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 10:00:24,728 [INFO] Response: 200 for /api/logs/stream in 0.002s
+2025-11-06 10:00:24,728 [INFO] 127.0.0.1 - - [06/Nov/2025 10:00:24] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 10:00:24,731 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:00:24,732 [INFO] 127.0.0.1 - - [06/Nov/2025 10:00:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:00:44,431 [INFO] Request: GET /api/logs from 127.0.0.1
+2025-11-06 10:00:44,432 [INFO] Response: 404 for /api/logs in 0.001s
+2025-11-06 10:00:44,432 [INFO] 127.0.0.1 - - [06/Nov/2025 10:00:44] "[33mGET /api/logs HTTP/1.0[0m" 404 -
+2025-11-06 10:00:54,756 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:00:54,759 [INFO] Response: 200 for /api/stats in 0.002s
+2025-11-06 10:00:54,759 [INFO] 127.0.0.1 - - [06/Nov/2025 10:00:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:01:24,759 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:01:24,765 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:01:24,765 [INFO] 127.0.0.1 - - [06/Nov/2025 10:01:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:01:54,763 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:01:54,769 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:01:54,770 [INFO] 127.0.0.1 - - [06/Nov/2025 10:01:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:02:24,758 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:02:24,760 [INFO] Response: 200 for /api/stats in 0.002s
+2025-11-06 10:02:24,761 [INFO] 127.0.0.1 - - [06/Nov/2025 10:02:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:02:54,767 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:02:54,771 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:02:54,771 [INFO] 127.0.0.1 - - [06/Nov/2025 10:02:54] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:03:24,764 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:03:24,769 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:03:24,770 [INFO] 127.0.0.1 - - [06/Nov/2025 10:03:24] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:03:56,964 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:03:56,967 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:03:56,968 [INFO] 127.0.0.1 - - [06/Nov/2025 10:03:56] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:04:29,644 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:04:29,649 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:04:29,651 [INFO] 127.0.0.1 - - [06/Nov/2025 10:04:29] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:04:59,615 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:04:59,620 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:04:59,622 [INFO] 127.0.0.1 - - [06/Nov/2025 10:04:59] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:05:32,559 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:05:32,563 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:05:32,565 [INFO] 127.0.0.1 - - [06/Nov/2025 10:05:32] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:06:03,854 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:06:03,858 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:06:03,859 [INFO] 127.0.0.1 - - [06/Nov/2025 10:06:03] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:06:34,596 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:06:34,603 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:06:34,603 [INFO] 127.0.0.1 - - [06/Nov/2025 10:06:34] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:07:07,155 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:07:07,161 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:07:07,162 [INFO] 127.0.0.1 - - [06/Nov/2025 10:07:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:07:37,156 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:07:37,163 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:07:37,164 [INFO] 127.0.0.1 - - [06/Nov/2025 10:07:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:08:07,148 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:08:07,151 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:08:07,152 [INFO] 127.0.0.1 - - [06/Nov/2025 10:08:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:08:37,162 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:08:37,167 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:08:37,167 [INFO] 127.0.0.1 - - [06/Nov/2025 10:08:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:09:07,164 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:09:07,167 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:09:07,168 [INFO] 127.0.0.1 - - [06/Nov/2025 10:09:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:09:37,170 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:09:37,177 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:09:37,178 [INFO] 127.0.0.1 - - [06/Nov/2025 10:09:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:10:07,176 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:10:07,183 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:10:07,184 [INFO] 127.0.0.1 - - [06/Nov/2025 10:10:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:10:38,266 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:10:38,270 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:10:38,271 [INFO] 127.0.0.1 - - [06/Nov/2025 10:10:38] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:11:14,844 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:11:14,859 [INFO] Response: 200 for /api/stats in 0.015s
+2025-11-06 10:11:14,860 [INFO] 127.0.0.1 - - [06/Nov/2025 10:11:14] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:11:44,889 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:11:44,895 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:11:44,896 [INFO] 127.0.0.1 - - [06/Nov/2025 10:11:44] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:12:15,568 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:12:15,578 [INFO] Response: 200 for /api/stats in 0.010s
+2025-11-06 10:12:15,581 [INFO] 127.0.0.1 - - [06/Nov/2025 10:12:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:12:55,568 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:12:55,581 [INFO] Response: 200 for /api/stats in 0.013s
+2025-11-06 10:12:55,581 [INFO] 127.0.0.1 - - [06/Nov/2025 10:12:55] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:13:25,589 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:13:25,594 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:13:25,596 [INFO] 127.0.0.1 - - [06/Nov/2025 10:13:25] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:13:55,578 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:13:55,584 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:13:55,586 [INFO] 127.0.0.1 - - [06/Nov/2025 10:13:55] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:14:46,682 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:14:46,685 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:14:46,685 [INFO] 127.0.0.1 - - [06/Nov/2025 10:14:46] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:15:16,695 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:15:16,699 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:15:16,700 [INFO] 127.0.0.1 - - [06/Nov/2025 10:15:16] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:16:06,082 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:16:06,086 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:16:06,086 [INFO] 127.0.0.1 - - [06/Nov/2025 10:16:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:16:36,036 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:16:36,040 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:16:36,040 [INFO] 127.0.0.1 - - [06/Nov/2025 10:16:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:17:06,412 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:17:06,417 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:17:06,418 [INFO] 127.0.0.1 - - [06/Nov/2025 10:17:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:17:58,242 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:17:58,244 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:17:58,245 [INFO] 127.0.0.1 - - [06/Nov/2025 10:17:58] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:18:28,248 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:18:28,257 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 10:18:28,259 [INFO] 127.0.0.1 - - [06/Nov/2025 10:18:28] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:19:15,692 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:19:15,694 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:19:15,695 [INFO] 127.0.0.1 - - [06/Nov/2025 10:19:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:19:45,700 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:19:45,705 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:19:45,707 [INFO] 127.0.0.1 - - [06/Nov/2025 10:19:45] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:20:07,567 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:20:07,571 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:20:07,571 [INFO] 127.0.0.1 - - [06/Nov/2025 10:20:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:20:08,515 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 10:20:08,516 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 10:20:08,516 [INFO] 127.0.0.1 - - [06/Nov/2025 10:20:08] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 10:20:15,700 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:20:15,703 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:20:15,703 [INFO] 127.0.0.1 - - [06/Nov/2025 10:20:15] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:20:37,687 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:20:37,692 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:20:37,694 [INFO] 127.0.0.1 - - [06/Nov/2025 10:20:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:20:49,015 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:20:49,020 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:20:49,021 [INFO] 127.0.0.1 - - [06/Nov/2025 10:20:49] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:21:07,678 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:21:07,686 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:21:07,687 [INFO] 127.0.0.1 - - [06/Nov/2025 10:21:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:21:18,992 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:21:18,997 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:21:18,998 [INFO] 127.0.0.1 - - [06/Nov/2025 10:21:18] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:21:37,679 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:21:37,684 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:21:37,686 [INFO] 127.0.0.1 - - [06/Nov/2025 10:21:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:21:49,043 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:21:49,046 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:21:49,047 [INFO] 127.0.0.1 - - [06/Nov/2025 10:21:49] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:22:07,718 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:22:07,726 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:22:07,727 [INFO] 127.0.0.1 - - [06/Nov/2025 10:22:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:22:35,639 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:22:35,643 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:22:35,644 [INFO] 127.0.0.1 - - [06/Nov/2025 10:22:35] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:22:37,723 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:22:37,743 [INFO] Response: 200 for /api/stats in 0.020s
+2025-11-06 10:22:37,744 [INFO] 127.0.0.1 - - [06/Nov/2025 10:22:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:23:05,641 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:23:05,648 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:23:05,650 [INFO] 127.0.0.1 - - [06/Nov/2025 10:23:05] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:23:07,727 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:23:07,744 [INFO] Response: 200 for /api/stats in 0.017s
+2025-11-06 10:23:07,745 [INFO] 127.0.0.1 - - [06/Nov/2025 10:23:07] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:23:35,647 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:23:35,655 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:23:35,655 [INFO] 127.0.0.1 - - [06/Nov/2025 10:23:35] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:23:37,748 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:23:37,752 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:23:37,752 [INFO] 127.0.0.1 - - [06/Nov/2025 10:23:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:24:05,676 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:24:05,676 [ERROR] Server stats error: [Errno 111] Connection refused
+2025-11-06 10:24:05,717 [ERROR] Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 88, in get_server_stats
+    status = server.status()
+             ^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/server.py", line 149, in status
+    with TCPSocketConnection(self.address, self.timeout) as connection:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/protocol/connection.py", line 540, in __init__
+    self.socket = socket.create_connection(addr, timeout=timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2025-11-06 10:24:05,719 [INFO] Response: 200 for /api/stats in 0.043s
+2025-11-06 10:24:05,720 [INFO] 127.0.0.1 - - [06/Nov/2025 10:24:05] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:24:08,754 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:24:08,759 [ERROR] Server stats error: [Errno 111] Connection refused
+2025-11-06 10:24:08,762 [ERROR] Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 88, in get_server_stats
+    status = server.status()
+             ^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/server.py", line 149, in status
+    with TCPSocketConnection(self.address, self.timeout) as connection:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/protocol/connection.py", line 540, in __init__
+    self.socket = socket.create_connection(addr, timeout=timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2025-11-06 10:24:08,763 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 10:24:08,764 [INFO] 127.0.0.1 - - [06/Nov/2025 10:24:08] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:24:35,833 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:24:35,834 [ERROR] Server stats error: [Errno 111] Connection refused
+2025-11-06 10:24:35,836 [ERROR] Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 88, in get_server_stats
+    status = server.status()
+             ^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/server.py", line 149, in status
+    with TCPSocketConnection(self.address, self.timeout) as connection:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/protocol/connection.py", line 540, in __init__
+    self.socket = socket.create_connection(addr, timeout=timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2025-11-06 10:24:35,839 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:24:35,840 [INFO] 127.0.0.1 - - [06/Nov/2025 10:24:35] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:24:39,505 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:24:39,508 [ERROR] Server stats error: [Errno 111] Connection refused
+2025-11-06 10:24:39,508 [ERROR] Traceback (most recent call last):
+  File "/var/www/minecraft-stats/api.py", line 88, in get_server_stats
+    status = server.status()
+             ^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/server.py", line 149, in status
+    with TCPSocketConnection(self.address, self.timeout) as connection:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/mincraft-stats-venv/lib/python3.12/site-packages/mcstatus/protocol/connection.py", line 540, in __init__
+    self.socket = socket.create_connection(addr, timeout=timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2025-11-06 10:24:39,509 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:24:39,509 [INFO] 127.0.0.1 - - [06/Nov/2025 10:24:39] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:25:04,332 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:25:04,466 [INFO] Response: 200 for /api/stats in 0.134s
+2025-11-06 10:25:04,467 [INFO] 127.0.0.1 - - [06/Nov/2025 10:25:04] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:25:05,338 [INFO] Request: GET /api/logs/stream from 127.0.0.1
+2025-11-06 10:25:05,339 [INFO] Response: 200 for /api/logs/stream in 0.001s
+2025-11-06 10:25:05,340 [INFO] 127.0.0.1 - - [06/Nov/2025 10:25:05] "GET /api/logs/stream HTTP/1.0" 200 -
+2025-11-06 10:25:10,766 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:25:10,776 [INFO] Response: 200 for /api/stats in 0.010s
+2025-11-06 10:25:10,777 [INFO] 127.0.0.1 - - [06/Nov/2025 10:25:10] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:25:36,443 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:25:36,457 [INFO] Response: 200 for /api/stats in 0.015s
+2025-11-06 10:25:36,458 [INFO] 127.0.0.1 - - [06/Nov/2025 10:25:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:25:40,769 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:25:40,783 [INFO] Response: 200 for /api/stats in 0.014s
+2025-11-06 10:25:40,784 [INFO] 127.0.0.1 - - [06/Nov/2025 10:25:40] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:26:06,232 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:26:06,243 [INFO] Response: 200 for /api/stats in 0.011s
+2025-11-06 10:26:06,244 [INFO] 127.0.0.1 - - [06/Nov/2025 10:26:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:26:10,935 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:26:10,944 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 10:26:10,945 [INFO] 127.0.0.1 - - [06/Nov/2025 10:26:10] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:26:36,229 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:26:36,235 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:26:36,237 [INFO] 127.0.0.1 - - [06/Nov/2025 10:26:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:26:40,935 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:26:40,942 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:26:40,942 [INFO] 127.0.0.1 - - [06/Nov/2025 10:26:40] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:27:06,223 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:27:06,227 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:27:06,228 [INFO] 127.0.0.1 - - [06/Nov/2025 10:27:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:27:10,942 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:27:10,952 [INFO] Response: 200 for /api/stats in 0.010s
+2025-11-06 10:27:10,953 [INFO] 127.0.0.1 - - [06/Nov/2025 10:27:10] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:27:36,235 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:27:36,243 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:27:36,245 [INFO] 127.0.0.1 - - [06/Nov/2025 10:27:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:27:40,934 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:27:40,937 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:27:40,938 [INFO] 127.0.0.1 - - [06/Nov/2025 10:27:40] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:28:06,240 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:28:06,248 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:28:06,248 [INFO] 127.0.0.1 - - [06/Nov/2025 10:28:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:28:14,705 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:28:14,711 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:28:14,718 [INFO] 127.0.0.1 - - [06/Nov/2025 10:28:14] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:28:36,236 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:28:36,239 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:28:36,240 [INFO] 127.0.0.1 - - [06/Nov/2025 10:28:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:28:44,710 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:28:44,719 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 10:28:44,720 [INFO] 127.0.0.1 - - [06/Nov/2025 10:28:44] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:29:06,742 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:29:06,750 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:29:06,751 [INFO] 127.0.0.1 - - [06/Nov/2025 10:29:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:29:14,711 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:29:14,717 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:29:14,719 [INFO] 127.0.0.1 - - [06/Nov/2025 10:29:14] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:29:36,977 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:29:37,008 [INFO] Response: 200 for /api/stats in 0.030s
+2025-11-06 10:29:37,013 [INFO] 127.0.0.1 - - [06/Nov/2025 10:29:37] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:29:51,576 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:29:51,586 [INFO] Response: 200 for /api/stats in 0.010s
+2025-11-06 10:29:51,587 [INFO] 127.0.0.1 - - [06/Nov/2025 10:29:51] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:30:06,770 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:30:06,774 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:30:06,774 [INFO] 127.0.0.1 - - [06/Nov/2025 10:30:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:30:22,579 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:30:22,582 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:30:22,582 [INFO] 127.0.0.1 - - [06/Nov/2025 10:30:22] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:30:36,773 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:30:36,778 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:30:36,780 [INFO] 127.0.0.1 - - [06/Nov/2025 10:30:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:30:52,614 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:30:52,624 [INFO] Response: 200 for /api/stats in 0.009s
+2025-11-06 10:30:52,624 [INFO] 127.0.0.1 - - [06/Nov/2025 10:30:52] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:31:06,780 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:31:06,784 [INFO] Response: 200 for /api/stats in 0.004s
+2025-11-06 10:31:06,785 [INFO] 127.0.0.1 - - [06/Nov/2025 10:31:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:31:22,597 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:31:22,603 [INFO] Response: 200 for /api/stats in 0.006s
+2025-11-06 10:31:22,603 [INFO] 127.0.0.1 - - [06/Nov/2025 10:31:22] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:31:36,786 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:31:36,794 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:31:36,795 [INFO] 127.0.0.1 - - [06/Nov/2025 10:31:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:32:00,804 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:32:00,807 [INFO] Response: 200 for /api/stats in 0.003s
+2025-11-06 10:32:00,808 [INFO] 127.0.0.1 - - [06/Nov/2025 10:32:00] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:32:06,799 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:32:06,804 [INFO] Response: 200 for /api/stats in 0.005s
+2025-11-06 10:32:06,805 [INFO] 127.0.0.1 - - [06/Nov/2025 10:32:06] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:32:30,783 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:32:30,791 [INFO] Response: 200 for /api/stats in 0.008s
+2025-11-06 10:32:30,793 [INFO] 127.0.0.1 - - [06/Nov/2025 10:32:30] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:32:36,785 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:32:36,791 [INFO] Response: 200 for /api/stats in 0.007s
+2025-11-06 10:32:36,791 [INFO] 127.0.0.1 - - [06/Nov/2025 10:32:36] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:33:00,772 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:33:00,783 [INFO] Response: 200 for /api/stats in 0.011s
+2025-11-06 10:33:00,783 [INFO] 127.0.0.1 - - [06/Nov/2025 10:33:00] "GET /api/stats HTTP/1.0" 200 -
+2025-11-06 10:33:06,795 [INFO] Request: GET /api/stats from 127.0.0.1
+2025-11-06 10:33:06,810 [INFO] Response: 200 for /api/stats in 0.014s
+2025-11-06 10:33:06,811 [INFO] 127.0.0.1 - - [06/Nov/2025 10:33:06] "GET /api/stats HTTP/1.0" 200 -
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
